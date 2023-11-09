@@ -37,6 +37,7 @@ Laisse pas traîner ton fils
 Si tu veux pas qu'il glisse
 Qu'il te ramène du vice
 
+<<<<<<< HEAD
 Kool Shen
 
 Non laisse pas traîner ton fils
@@ -52,3 +53,6 @@ Laisse pas traîner ton fils
 Si tu veux pas qu'il glisse
 
 CHOEUR
+=======
+Kool Shen
+>>>>>>> 5d729668f9604de0ca893133115e9015630c8a11
